@@ -1,4 +1,4 @@
-# 🚀 Java + DSA + Development Learning Journey
+# 🚀 Java + DSA + Development Learning Journey                                                                                                               DATE : 02/02/26
 
 This repository documents my “daily progress” in learning “Java fundamentals, DSA basics, and development concepts” for placement preparation.
 
@@ -39,7 +39,7 @@ The goal is to build a “strong foundation”, write “clean code”, and deve
 
 ---
 
-## 📅 Day 2 – Java Core Logic Building:
+## 📅 Day 2 – Java Core Logic Building:                                                                                                                          DATE: 03/02/26
 
 ### 🔹 Topics Covered
 
@@ -116,8 +116,7 @@ The goal is to build a “strong foundation”, write “clean code”, and deve
 
 ---
 
-
-# DSA with Java – Day 3 Progress
+# DSA with Java – Day 3 Progress                                                                                                                                     DATE: 04/02/26
 
 ## 📌 Overview
 This repository tracks my DSA with Java learning journey.  
@@ -180,7 +179,7 @@ Status: Concepts understood, problem-solving pending
   https://youtu.be/rk2fK2IIiiQ
 
 ### 📄 Practice Reference (Upcoming)
-- Logic Building with Loops FROM PDF LINK ( https://drive.google.com/file/d/1KqNnEf0xNR1-jYdKAZFnkkd7-e17QnSs/view?usp=sharing )
+- Logic Building with Loops – PDF LINK : https://drive.google.com/file/d/1KqNnEf0xNR1-jYdKAZFnkkd7-e17QnSs/view?usp=sharing
 
 ---
 
@@ -224,6 +223,8 @@ Strong understanding of loops is the foundation for all upcoming DSA topics.
 ---
 
 🚀 Progress over perfection.
+
+
 
 
 ⭐ This repository will be updated regularly as I continue my learning journey.
