@@ -116,4 +116,114 @@ The goal is to build a “strong foundation”, write “clean code”, and deve
 
 ---
 
+
+# DSA with Java – Day 3 Progress
+
+## 📌 Overview
+This repository tracks my DSA with Java learning journey.  
+Day 3 focuses on understanding loop constructs in Java, which are essential for logic building before solving DSA problems.
+
+At this stage, the emphasis is on conceptual clarity, not problem count.
+
+---
+
+## 📅 Day 3 Focus
+Topic: Java Loops (Conceptual Understanding)  
+Status: Concepts understood, problem-solving pending
+
+---
+
+## 📚 Concepts Covered (Theory Only)
+
+### 1. For Loop
+- Syntax and execution flow
+- Initialization, condition, increment/decrement
+- Fixed-iteration problems
+
+### 2. While Loop
+- Entry-controlled loop
+- Condition-based execution
+- Infinite loop scenarios
+
+### 3. Do-While Loop
+- Exit-controlled loop
+- Guaranteed single execution
+- Difference from while loop
+
+### 4. Break Statement
+- Early termination of loops
+- Logical exit conditions
+
+### 5. Continue Statement
+- Skipping current iteration
+- Flow control inside loops
+
+### 6. Nested Loops (Introduction)
+- Loop inside another loop
+- Iteration dependency
+
+---
+
+## 📘 Reference Material
+
+### 🎥 Video Resources
+- Apna College – Java Loops (For, While, Do-While)  
+  https://youtu.be/0r1SfRoLuzU
+
+- Apna College – Pattern Questions (Nested Loops)  
+  https://youtu.be/GxYJXq4qzQ8
+
+- CodeWithHarry – Java While & Do-While Loop  
+  https://youtu.be/XzRr4tY3u7g
+
+- CodeWithHarry – Java For Loop  
+  https://youtu.be/rk2fK2IIiiQ
+
+### 📄 Practice Reference (Upcoming)
+- Logic Building with Loops FROM PDF LINK ( https://drive.google.com/file/d/1KqNnEf0xNR1-jYdKAZFnkkd7-e17QnSs/view?usp=sharing )
+
+---
+
+## 🧠 Current Understanding
+- Able to read and understand loop-based code
+- Clear about loop flow and conditions
+- Comfortable with syntax and control statements
+- Still building confidence in solving problems independently
+
+---
+
+## ⚠️ What Is Not Done Yet
+- Loop-based problem solving
+- Coding practice from the PDF
+- Pattern and series programs
+
+---
+
+## 🎯 Next Plan
+- Start solving problems phase-wise from the PDF
+- Begin with While Loop problems
+- Focus on dry-run and logic building
+
+---
+
+## ⏳ Time Spent
+- ~2–3 hours
+
+---
+
+## ✅ Day 3 Status
+✔ Loop concepts understood  
+❌ Problems not solved yet  
+➡️ Ready to start implementation
+
+---
+
+## 📌 Note
+Strong understanding of loops is the foundation for all upcoming DSA topics.
+
+---
+
+🚀 Progress over perfection.
+
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
