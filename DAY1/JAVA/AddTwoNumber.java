@@ -8,7 +8,6 @@ public class AddTwoNumber {
     System.out.println("Second number: "+num2);
     System.out.println("Sum: "+sum);
   }
- 
 
   
 }

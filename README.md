@@ -1,4 +1,4 @@
-# 🚀 Java + DSA + Development Learning Journey                                                                                                               DATE : 02/02/26
+# 🚀 Java + DSA + Development Learning Journey                                                                                                                          DATE : 03/02/26
 
 This repository documents my “daily progress” in learning “Java fundamentals, DSA basics, and development concepts” for placement preparation.
 
@@ -39,7 +39,7 @@ The goal is to build a “strong foundation”, write “clean code”, and deve
 
 ---
 
-## 📅 Day 2 – Java Core Logic Building:                                                                                                                          DATE: 03/02/26
+## 📅 Day 2 – Java Core Logic Building:                                                                                                                          DATE: 04/02/26
 
 ### 🔹 Topics Covered
 
@@ -116,7 +116,7 @@ The goal is to build a “strong foundation”, write “clean code”, and deve
 
 ---
 
-# DSA with Java – Day 3 Progress                                                                                                                                     DATE: 04/02/26
+# DSA with Java – Day 3 Progress                                                                                                                                     DATE: 05/02/26
 
 ## 📌 Overview
 This repository tracks my DSA with Java learning journey.  
@@ -224,6 +224,122 @@ Strong understanding of loops is the foundation for all upcoming DSA topics.
 
 🚀 Progress over perfection.
 
+
+# 📘 Day 4 – While Loop Practice (Java)     Date: 06/02/26
+
+## 🔹 Overview
+On “Day 4”, I focused on mastering the “`while loop” in Java by solving “20 fundamental programming problems”.  
+This practice strengthened my understanding of “iteration, number manipulation, condition checking, and basic algorithms”.
+
+---
+
+## 🎯 Objectives
+- Understand how the `while` loop works internally
+- Practice looping with counters and conditions
+- Apply loops to solve mathematical and logical problems
+- Improve problem-solving confidence without using advanced constructs
+
+---
+
+## 🧠 Topics Covered
+- Iterative logic using `while` loop
+- Number traversal (forward & reverse)
+- Even and odd number processing
+- Summation techniques
+- Digit-based operations
+- Mathematical checks and series generation
+
+---
+
+## ✅ Problems Solved
+
+### 🔢 Number Printing
+1. Print numbers from “1 to 10”
+2. Print numbers from “10 to 1”
+3. Print all “even numbers (1–100)”
+4. Print all “odd numbers (1–100)”
+
+### ➗ Mathematical Operations
+5. Print “multiplication table” of a number
+6. Sum of first “n natural numbers”
+7. Sum of all “even numbers up to n”
+8. Sum of all “odd numbers up to n”
+9. Find “factorial” of a number
+
+### 🔁 Digit Manipulation
+10. Product of digits of a number
+11. Count total digits in a number
+12. Reverse a number
+13. Check “palindrome number”
+14. Find “sum of digits”
+
+### 🔍 Number Property Checks
+15. Check “Armstrong number”
+16. Check “Perfect number”
+17. Print all “prime numbers (1–100)”
+18. Check whether a number is “prime”
+
+### 🔢 Series Problems
+19. Print “Fibonacci series” up to n terms
+20. Find “sum of Fibonacci series” up to n terms
+
+---
+
+## 🛠️ Concepts Strengthened
+- Loop control using conditions
+- Efficient use of variables
+- Avoiding infinite loops
+- Handling edge cases (`0`, `1`, negative numbers)
+- Time & space complexity awareness
+
+---
+
+## 🚀 Key Learnings
+- `while` loop is best when the number of iterations is “condition-based”
+- Mathematical problems can be solved efficiently without arrays
+- Breaking problems into “small logical steps” makes coding easier
+- Clean logic matters more than short code
+
+
+
+---
+
+## 📂 Folder Structure
+Day-4-While-Loop/
+│── ArmstrongNumber.java
+│── PrimeNumber.java
+│── Fibonacci.java
+│── PalindromeNumber.java
+│── Factorial.java
+│── ...
+
+
+## 🔗 References
+- Java While Loop (Official Docs):  
+  https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html
+- Practice Inspiration:  
+  https://www.geeksforgeeks.org/java-loops/
+
+---
+
+## 📅 Progress Tracker
+- ✅ Day 1: Java Basics
+- ✅ Day 2: Conditional Statements
+- ✅ Day 3: Loop Fundamentals
+- ✅ “Day 4: While Loop Mastery”
+- ⏳ Day 5: For Loop & Nested Loops
+
+---
+
+## ✨ Next Plan
+- Convert `while` loop logic into `for` loops
+- Learn “nested loops”
+- Solve pattern printing problems
+- Start function-based implementations
+
+---
+
+⭐ “Consistency over perfection. One day at a time.”
 
 
 
