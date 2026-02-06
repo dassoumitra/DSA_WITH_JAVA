@@ -16,5 +16,6 @@ public class MultiplicationTable {
       i++;
       
     }
+    sc.close();
   }
 }
