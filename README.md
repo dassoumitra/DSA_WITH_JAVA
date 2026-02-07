@@ -339,6 +339,80 @@ Day-4-While-Loop/
 
 ---
 
+# 📘 DSA with Java – Day 5
+
+## 📅 Day 5: While Loop & Do-While Loop Practice
+
+On Day 5, I practiced while loop and do-while loop concepts in Java by solving a set of number-based and logical problems. The goal was to strengthen loop control, repetition logic, and user-input handling.
+
+---
+
+## ✅ Topics Covered
+- While Loop part2
+- Do-While Loop
+- Number manipulation using loops
+- Mathematical and logical operations
+
+---
+
+## 🧠 Problems Solved
+Pdf link: https://drive.google.com/file/d/1KqNnEf0xNR1-jYdKAZFnkkd7-e17QnSs/view?usp=sharing
+
+### 🔹 Using While Loop
+1. Find and print the sum of Fibonacci series up to `n` terms  
+2. Print the square of each number from `1` to `n`  
+3. Print the cube of each number from `1` to `n`  
+4. Print all numbers between `a` and `b` that are divisible by 7  
+5. Print all factors of a given number  
+6. Find and print the sum of all factors of a given number  
+7. Find the HCF (Highest Common Factor) of two numbers  
+8. Find the LCM (Least Common Multiple) of two numbers  
+9. Find the smallest digit in a given number  
+10. Find the largest digit in a given number  
+
+---
+
+### 🔹 Using Do-While Loop
+1. Print all numbers from 1 to 10  
+2. Print the multiplication table of a given number  
+3. Take numbers from the user until `0` is entered and print the sum  
+4. Take numbers from the user until `0` is entered and print the largest number  
+5. Count and print the number of digits in a given number  
+6. Reverse a given number  
+7. Check whether a number is a Palindrome  
+8. Check whether a number is an Armstrong Number
+
+---
+
+## 🛠 Key Concepts Practiced
+- Loop control and execution flow
+- Digit extraction using `%` and `/`
+- Conditional checks inside loops
+- User input handling
+- Mathematical problem-solving using loops
+
+---
+
+## 📈 Learning Outcome
+- Strong understanding of while vs do-while
+- Improved logic building for number problems
+- Confidence in solving basic DSA loop problems
+- Ready to move on to nested loops and patterns
+
+---
+
+## 🚀 Next Steps
+- Nested loops
+- Pattern printing
+- Loop optimization techniques
+
+---
+
+### ✅ Status
+Day 5 Completed Successfully 🎯
+
+📌 Practice makes logic stronger. Keep going!
+
 ⭐ “Consistency over perfection. One day at a time.”
 
 
