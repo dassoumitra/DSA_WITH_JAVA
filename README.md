@@ -339,7 +339,7 @@ Day-4-While-Loop/
 
 ---
 
-# 📘 DSA with Java – Day 5
+# 📘 DSA with Java – Day 5                                     Date: 07/02/26
 
 ## 📅 Day 5: While Loop & Do-While Loop Practice
 
@@ -415,6 +415,41 @@ Day 5 Completed Successfully 🎯
 
 ⭐ “Consistency over perfection. One day at a time.”
 
+
+
+# 📘 DSA with Java – Day 6                                   Date: 08/02/26
+
+## 📅 Day 6: GATE 2026 Exam Day
+
+Day 6 was reserved for appearing in the GATE 2026 examination.  
+No coding or DSA practice was done today due to the exam schedule.
+
+---
+
+## 📝 Reason for No Practice
+- Appeared for GATE 2026
+- Focus was on examination and revision
+- Took rest after the exam
+
+---
+
+## 📌 Note
+Consistency is important, but exam days are exceptions.  
+The learning plan will continue from the next day without any gap.
+
+---
+
+## 🚀 Next Plan (Day 7)
+- Resume DSA with Java
+- Continue loop and number-based problems
+- Move towards nested loops / pattern problems
+
+---
+
+### ✅ Status
+Day 6 – GATE 2026 Exam Completed
+
+📌 “Progress is not only about coding every day, but also about handling important milestones.”
 
 
 ⭐ This repository will be updated regularly as I continue my learning journey.
