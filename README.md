@@ -452,4 +452,74 @@ Day 6 – GATE 2026 Exam Completed
 📌 “Progress is not only about coding every day, but also about handling important milestones.”
 
 
+# Day 7 – For Loop Practice in Java            Date: 09/02/26
+
+## 📖 Description
+On “Day 7”, I practiced a variety of “for loop–based problems in Java”. The focus was on building strong fundamentals in iteration, improving logical thinking, and solving common mathematical problems using loops.
+
+---
+
+## 🧩 Concepts Practiced
+- `for` loop syntax and flow
+- Nested loops
+- Loop optimization
+- Mathematical computations using iteration
+- Problem-solving with conditions inside loops
+
+---
+
+## 📝 Problems Implemented
+
+### Core Loop Problems
+- Print numbers from “1 to 10”
+- Print numbers from “10 to 1” (reverse order)
+- Print all “even numbers” between “1 and 100”
+- Print all “odd numbers” between “1 and 100”
+- Generate the “multiplication table” of a given number
+
+### Number-Based Problems
+- Factorial of a given number
+- Factorial of numbers from “1 to n”
+- Print all “prime numbers” between “1 and 100”
+- Check whether a number is “prime”
+- Print the “Fibonacci series” up to `n` terms
+
+### Additional Practice
+- Find “HCF (Highest Common Factor)” of given numbers
+- Menu-driven program using loops
+- Count positive numbers until a “negative number” is entered
+- Find the “sum of digits” of a number
+- Find “sum of even digits” and “sum of odd digits”
+
+---
+
+## 🛠️ Tools & Technologies
+- “Java”
+- “JDK”
+- “VS Code”
+- “Git”
+
+---
+
+
+---
+
+## 📈 Learning Outcome
+- Improved understanding of loop control
+- Better handling of nested loops
+- Stronger problem-solving approach
+- Cleaner and more readable Java code
+
+---
+
+## 🔜 What’s Next
+- Pattern printing programs
+- Nested loop challenges
+- More optimized loop problems
+
+---
+
+### ✅ Day 7 completed — moving one step closer to DSA mastery 🚀
+
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
