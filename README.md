@@ -522,4 +522,37 @@ On “Day 7”, I practiced a variety of “for loop–based problems in Java”
 ### ✅ Day 7 completed — moving one step closer to DSA mastery 🚀
 
 
+# Day 8 – Mathematical Series (Java)       Date: 10/02/26
+
+## Overview
+Day 8 focused on solving “mathematical series problems” using Java. The objective was to strengthen loop usage, numerical logic, and series-based computations.
+
+---
+
+## Problems Solved
+- Sum of first _n_ natural numbers  
+- Sum of first _n_ even numbers  
+- Sum of first _n_ odd numbers  
+- Arithmetic Progression (AP) series  
+- Geometric Progression (GP) series  
+- Fibonacci series and its sum  
+- Square series: `1² + 2² + ... + n²`  
+- Cube series: `1³ + 2³ + ... + n³`  
+- Harmonic series: `1 + 1/2 + ... + 1/n`  
+- Powers of two series: `1 + 2 + 4 + ... + 2ⁿ`
+
+---
+
+## Tech Stack
+- Java  
+- JDK  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## Status
+✅ Day 8 completed – Mathematical series practice done.
+
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
