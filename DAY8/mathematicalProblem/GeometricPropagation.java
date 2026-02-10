@@ -1,3 +1,4 @@
+package DAY8.mathematicalProblem;
 // 5. Print the first n terms of a geometric progression for the given first term and common ratio
 import java.util.Scanner;
 
