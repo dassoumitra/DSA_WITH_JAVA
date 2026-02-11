@@ -555,4 +555,90 @@ Day 8 focused on solving “mathematical series problems” using Java. The obje
 ✅ Day 8 completed – Mathematical series practice done.
 
 
+
+# 📅 Day 9 – Pattern Printing in Java              Date: 11/02/26
+
+## 📌 Topic
+Pattern Printing using Loops
+
+---
+
+## 📖 Overview
+On Day 9 of my DSA with Java journey, I learned the fundamental concepts of pattern printing.  
+This topic strengthened my understanding of nested loops, row–column logic, and control flow in Java.
+
+---
+
+## 🧠 Concepts Covered
+- Nested loops
+- Row-wise and column-wise logic
+- Loop control using conditions
+- Use of spaces and symbols in patterns
+- Understanding pattern structure before coding
+
+---
+
+## 🔁 Types of Patterns Practiced
+- Star patterns
+- Square patterns
+- Right-angled triangle patterns
+- Increasing and decreasing patterns
+- Basic number patterns
+
+---
+
+## 💡 Key Learnings
+- Patterns are constructed row by row and column by column
+- Loop boundaries directly affect pattern shape
+- Pattern problems improve logical thinking
+- Strong foundation for exams and interviews
+
+---
+
+## 📈 Progress Status
+- ✔ Concepts understood
+- ✔ Nested loops practiced
+- ✔ Logic-building improved
+
+---
+
+## 🎯 Next Steps
+- Practice advanced pattern problems
+- Combine patterns with conditional logic
+- Solve interview-level pattern questions
+
+---
+
+## 📚 Resources
+
+### 🎥 Video Tutorials
+- Apna College – Pattern Printing in Java  
+  https://www.youtube.com/watch?v=U9pM9Y4u8rE
+
+- Kunal Kushwaha – Pattern Questions for Logic Building  
+  https://www.youtube.com/watch?v=lsOOs5J8ycw
+
+- CodeWithHarry – Java Loops & Pattern Printing  
+  https://www.youtube.com/watch?v=ntLJmHOJ0ME
+
+---
+
+### 📘 Practice & Reading
+- GeeksforGeeks – Java Pattern Programs  
+  https://www.geeksforgeeks.org/programs-printing-patterns-java/
+
+- Javatpoint – Java Pattern Programs  
+  https://www.javatpoint.com/java-pattern-programs
+
+---
+
+### 🧠 Interview Preparation
+- Take U Forward – Pattern & DSA Concepts  
+  https://www.youtube.com/@takeUforward
+
+---
+
+## ✅ Status
+Day 9 completed successfully
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
