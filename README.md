@@ -641,6 +641,142 @@ This topic strengthened my understanding of nested loops, row–column logic, an
 ## ✅ Status
 Day 9 completed successfully
 
-........
-..........
+
+
+# 📅 Day 10–12 – Java Methods
+
+## 📌 Topic
+Methods (Functions) in Java
+
+---
+
+## 📖 Overview
+During Days 10, 11, and 12 of my DSA with Java journey, I studied “Java methods” in detail.  
+This topic helped me understand how to write reusable, modular, and clean code by breaking large programs into smaller logical units.
+
+---
+
+## 🧠 Concepts Covered
+- What is a method
+- Method declaration and definition
+- Method calling
+- Return type and `void` methods
+- Method parameters and arguments
+- Passing values to methods
+- Scope of variables
+- Static methods
+- Method overloading (basic idea)
+
+---
+
+## 🔁 Types of Methods Studied
+- User-defined methods
+- Methods with parameters
+- Methods with return values
+- Void methods
+- Static methods
+- Overloaded methods
+
+---
+
+## 💡 Key Learnings
+- Methods improve code reusability
+- Programs become easier to read and maintain
+- Logic can be tested independently using methods
+- Reduces code duplication
+- Helps in writing structured and modular programs
+
+---
+
+## 📈 Progress Status
+- ✔ Method syntax understood
+- ✔ Parameter passing practiced
+- ✔ Return values implemented
+- ✔ Code modularity improved
+
+---
+
+## 🎯 Next Steps
+- Practice more problems using methods
+- Combine methods with loops and conditions
+- Learn recursion in upcoming days
+
+---
+
+## 📚 Resources
+
+### 🎥 Video Tutorials
+- Apna College – Java Methods  
+  https://www.youtube.com/watch?v=G9Jf6l_4GqA
+
+- CodeWithHarry – Java Methods Tutorial  
+  https://www.youtube.com/watch?v=G3e-cpL7ofc
+
+- Kunal Kushwaha – Functions & Methods  
+  https://www.youtube.com/watch?v=7r8t0xJ9sFk
+
+---
+
+### 📘 Practice & Reading
+- GeeksforGeeks – Methods in Java  
+  https://www.geeksforgeeks.org/methods-in-java/
+
+- Javatpoint – Java Methods  
+  https://www.javatpoint.com/methods-in-java
+
+---
+
+🧠 Concepts Covered (Short Explanation)
+•	What is a Method
+A method is a block of code that performs a specific task and runs only when it is called. It helps in code reusability and modularity.
+•	Method Declaration and Definition
+Declaration specifies the method name, return type, and parameters, while definition contains the actual code to be executed.
+•	Method Calling
+Method calling is the process of executing a method by using its name along with required arguments.
+•	Return Type and void Methods
+The return type specifies the value a method sends back to the caller. void methods do not return any value.
+•	Method Parameters and Arguments
+Parameters are variables defined in the method, while arguments are actual values passed during method calls.
+•	Passing Values to Methods
+Java passes arguments by value, meaning a copy of the variable is sent to the method.
+•	Scope of Variables
+Variable scope defines where a variable can be accessed (local, method-level, or class-level).
+•	Static Methods
+Static methods belong to the class and can be called without creating an object of the class.
+•	Method Overloading (Basic Idea)
+Method overloading allows multiple methods with the same name but different parameters in the same class.
+________________________________________
+🔁 Types of Methods Studied (Short Explanation)
+•	User-Defined Methods
+Methods created by the programmer to perform specific tasks.
+•	Methods with Parameters
+These methods accept input values to process data dynamically.
+•	Methods with Return Values
+Methods that return a result to the calling method using the return keyword.
+•	Void Methods
+Methods that perform actions but do not return any value.
+•	Static Methods
+Methods that can be called directly using the class name without creating an object.
+•	Overloaded Methods
+Methods having the same name but different parameter lists to perform similar tasks.
+________________________________________
+ 
+
+## 🔁 Method vs Function
+
+| Basis | Method | Function |
+|------|--------|----------|
+| Definition | A method is a block of code associated with a class or object | A function is a block of code independent of any class |
+| Programming Style | Object-Oriented Programming | Procedural Programming |
+| Belongs To | Always belongs to a class | Exists independently |
+| Support in Java | Java supports methods only | Java does not support standalone functions |
+| Calling Style | Called using object name or class name | Called directly using function name |
+| Access Modifiers | Can use access modifiers (public, private, etc.) | Access modifiers are not supported |
+| Example Languages | Java, C++, Python (methods) | C, C++, Python (functions) |
+| Reusability | Achieved through objects and classes | Achieved through function calls |
+
+
+## ✅ Status
+Day 10, Day 11, and Day 12 completed successfully
+ 
 ⭐ This repository will be updated regularly as I continue my learning journey.
