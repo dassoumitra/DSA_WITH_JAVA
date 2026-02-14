@@ -726,39 +726,56 @@ This topic helped me understand how to write reusable, modular, and clean code b
 
 ---
 
-🧠 Concepts Covered (Short Explanation)
-•	What is a Method
-A method is a block of code that performs a specific task and runs only when it is called. It helps in code reusability and modularity.
-•	Method Declaration and Definition
-Declaration specifies the method name, return type, and parameters, while definition contains the actual code to be executed.
-•	Method Calling
-Method calling is the process of executing a method by using its name along with required arguments.
-•	Return Type and void Methods
-The return type specifies the value a method sends back to the caller. void methods do not return any value.
-•	Method Parameters and Arguments
-Parameters are variables defined in the method, while arguments are actual values passed during method calls.
-•	Passing Values to Methods
-Java passes arguments by value, meaning a copy of the variable is sent to the method.
-•	Scope of Variables
-Variable scope defines where a variable can be accessed (local, method-level, or class-level).
-•	Static Methods
-Static methods belong to the class and can be called without creating an object of the class.
-•	Method Overloading (Basic Idea)
-Method overloading allows multiple methods with the same name but different parameters in the same class.
-________________________________________
-🔁 Types of Methods Studied (Short Explanation)
-•	User-Defined Methods
-Methods created by the programmer to perform specific tasks.
-•	Methods with Parameters
-These methods accept input values to process data dynamically.
-•	Methods with Return Values
-Methods that return a result to the calling method using the return keyword.
-•	Void Methods
-Methods that perform actions but do not return any value.
-•	Static Methods
-Methods that can be called directly using the class name without creating an object.
-•	Overloaded Methods
-Methods having the same name but different parameter lists to perform similar tasks.
+## 🧠 Concepts Covered (Short Explanation)
+
+- “What is a Method”  
+  A method is a block of code that performs a specific task and runs only when it is called. It helps in code reusability and modularity.
+
+- “Method Declaration and Definition”  
+  Declaration specifies the method name, return type, and parameters, while definition contains the actual code to be executed.
+
+- “Method Calling”  
+  Method calling is the process of executing a method by using its name along with required arguments.
+
+- “Return Type and `void` Methods”  
+  The return type specifies the value a method sends back to the caller. `void` methods do not return any value.
+
+- “Method Parameters and Arguments”  
+  Parameters are variables defined in the method, while arguments are actual values passed during method calls.
+
+- “Passing Values to Methods”  
+  Java passes arguments by value, meaning a copy of the variable is sent to the method.
+
+- “Scope of Variables”  
+  Variable scope defines where a variable can be accessed (local, method-level, or class-level).
+
+- “Static Methods”  
+  Static methods belong to the class and can be called without creating an object of the class.
+
+- “Method Overloading (Basic Idea)”  
+  Method overloading allows multiple methods with the same name but different parameters in the same class.
+
+---
+
+## 🔁 Types of Methods Studied (Short Explanation)
+
+- “User-Defined Methods”  
+  Methods created by the programmer to perform specific tasks.
+
+- “Methods with Parameters”  
+  These methods accept input values to process data dynamically.
+
+- “Methods with Return Values”  
+  Methods that return a result to the calling method using the `return` keyword.
+
+- “Void Methods”  
+  Methods that perform actions but do not return any value.
+
+- “Static Methods”  
+  Methods that can be called directly using the class name without creating an object.
+
+- “Overloaded Methods”  
+  Methods having the same name but different parameter lists to perform similar tasks.
 ________________________________________
  
 
