@@ -795,5 +795,91 @@ ________________________________________
 
 ## ✅ Status
 Day 10, Day 11, and Day 12 completed successfully
+
+
+---
+
+# 📚 Java Methods & Basic Problems — GfG Practice
+
+This repository contains a curated list of Java programming practice problems from **GeeksforGeeks** focused on **methods (functions)** and basic logic exercises. These problems strengthen your foundation in writing functions with/without parameters and return values.
+
+---
+
+## 🚀 Problems List
+
+---
+
+### 🔹 1. Function with No Arguments
+
+**Description:**
+Practice writing a function that does not take any input parameters. Useful for understanding method structure in Java.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188/1](https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188/1)
+
+---
+
+### 🔹 2. Function with Arguments
+
+**Description:**
+This problem asks you to write functions that accept parameters and perform logic — a fundamental concept in modular programming.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1](https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1)
+
+---
+
+### 🔹 3. Function with Return Value
+
+**Description:**
+Focuses on writing a function that computes a result and returns it. Good practice for understanding how return values work in Java methods.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/function-with-return-value/1](https://www.geeksforgeeks.org/problems/function-with-return-value/1)
+
+---
+
+### 🔹 4. Palindrome Number
+
+**Description:**
+Check whether a given number is a palindrome (reads the same backward and forward). Great for practicing logic methods.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/palindrome0746/1](https://www.geeksforgeeks.org/problems/palindrome0746/1)
+
+---
+
+### 🔹 5. Reverse Digits of a Number
+
+**Description:**
+Write a function to reverse the digits of a number. Involves loops and basic arithmetic operations.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/reverse-digit0316/1](https://www.geeksforgeeks.org/problems/reverse-digit0316/1)
+
+---
+
+### 🔹 6. Count Digits of a Number
+
+**Description:**
+Function to count how many digits a number contains. Useful for understanding loops and mathematical operations in Java.
+
+**Link:**
+[https://www.geeksforgeeks.org/problems/count-digits-1606889545/1](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1)
+
+---
+
+## 💡 Practice Tips
+
+* Write the **logic inside separate methods** (avoid doing everything in `main()`).
+* Use appropriate **return types** and **parameters**.
+* Analyze **time and space complexity** after solving.
+* Try writing **recursive solutions** where appropriate.
+
+---
+
+Happy coding! 🚀
+If you want **Java solution templates** or **explanations for each problem**, just ask! 😊
+
  
 ⭐ This repository will be updated regularly as I continue my learning journey.
