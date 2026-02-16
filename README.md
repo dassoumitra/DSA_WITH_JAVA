@@ -881,5 +881,76 @@ Function to count how many digits a number contains. Useful for understanding lo
 Happy coding! 🚀
 If you want **Java solution templates** or **explanations for each problem**, just ask! 😊
 
+
+
+
+
+# 📅 Day 14 – Java Pattern Logic & Problem-Solving
+
+## 📌 Topic
+Advanced Pattern Logic & Problem-Solving Strategies in Java
+
+> Based on the video: *Mastering Patterns in DSA with Java in One Shot*  
+> (College Wallah – comprehensive pattern logic and tricks) :contentReference[oaicite:1]{index=1}
+
+---
+
+## 📖 Overview
+Today I continued my study of **Java pattern problems** and learned **strategies to solve complex patterns and logic problems efficiently**.  
+This session focused on understanding how to predict pattern outputs, identify row–column relationships, and use systematic thinking instead of just printing symbols.
+
+---
+
+## 🧠 Key Concepts Covered
+
+- Understanding pattern problems as **logical formulas**
+- Breaking down patterns into **mathematical relationships**
+- Using **nested loops** effectively
+- Visualizing patterns on **paper before coding**
+- Standard tricks for **triangle, diamond, and number patterns**
+- Recognizing the role of:
+  - current row number
+  - current column number
+  - spaces between values
+  - incremental and decremental sequences
+
+---
+
+## 🔁 Pattern Solving Tips
+
+- Always print on paper first → see how rows and columns change
+- Identify if the pattern is driven by:
+  - **Row number (`i`)**
+  - **Column number (`j`)**
+  - **Symmetry**
+  - **Spaces**
+  - **Increment/decrement**
+
+- Break each pattern into smaller pieces:
+  - first pattern segment (left side)
+  - middle spaces
+  - right side reversal
+
+---
+
+## 📈 Progress Status
+- ✔ Learned how to **analyze patterns**
+- ✔ Practiced **complex conditions**
+- ✔ Improved problem-solving strategy
+- ✔ Emphasized reasoning over copying code
+
+---
+
+## 📚 Resources
+
+### 🎥 Video Reference
+- Mastering Patterns in DSA with Java (College Wallah)  
+  https://youtu.be/58BHW0YdG7w
+
+---
+
+## ✅ Status
+Day 14 completed successfully
+
  
 ⭐ This repository will be updated regularly as I continue my learning journey.
