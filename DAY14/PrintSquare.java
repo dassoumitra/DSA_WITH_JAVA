@@ -10,7 +10,7 @@ public class PrintSquare {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter rows and columns: ");
     int r = sc.nextInt();
-    int c = sc.nextInt();
+    int c = r;
     
     for(int i=0; i<r; i++){
       for(int j=0; j<c; j++){
