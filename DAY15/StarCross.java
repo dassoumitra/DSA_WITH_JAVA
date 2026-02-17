@@ -1,11 +1,12 @@
-// 1
-// 01
-// 101
-// 0101
+// *    *
+//  *  *
+//   *
+//  *  *  
+// *    * 
 
 import java.util.Scanner;
 
-public class ZeroOneTriangle {
+public class StarCross {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter number of rows: ");
@@ -13,14 +14,14 @@ public class ZeroOneTriangle {
 
     for(int i=1; i<=r; i++){
       
-      for(int j=1; j<=i; j++){
-        if((i+j)%2==0)
-          System.out.print("1 ");
+      for(int j=1; j<=r; j++){
+        if((i==j) || (r+1-i==j))
+          System.out.print("*");
         else
-          System.out.print("0 ");
+          System.out.print(" ");
       }
       System.out.println();
     }
     sc.close();
-  }  
+  }
 }
