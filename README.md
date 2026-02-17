@@ -952,5 +952,68 @@ This session focused on understanding how to predict pattern outputs, identify r
 ## ✅ Status
 Day 14 completed successfully
 
+
+
+
+
+# 📅 Day 15 – Advanced Pattern Practice in Java
+
+## 📌 Topic
+Advanced Pattern Printing using Java
+
+---
+
+## 📖 Overview
+On Day 15 of my DSA with Java journey, I focused on **implementing advanced pattern problems** using nested loops.  
+Today’s practice helped me strengthen my understanding of **space–star calculation**, **symmetry in patterns**, and **logic optimization**.
+
+I practiced converting pattern logic into clean and structured Java code.
+
+---
+
+## 🧠 Concepts Practiced
+- Nested loop mastery
+- Space (`nsp`) and star (`nst`) calculation
+- Symmetric pattern design
+- Upper and lower pyramid logic
+- Pattern dry-run before coding
+- Code readability and structure improvement
+
+---
+
+## 🔁 Patterns Practiced
+- Full pyramid pattern
+- Inverted pyramid pattern
+- Diamond pattern (combined pyramid)
+- Symmetric star patterns
+
+---
+
+## 💡 Key Learnings
+- Pattern problems are **output-driven**, so O(n²) is optimal
+- Breaking patterns into parts simplifies logic
+- Using variables like `nsp` and `nst` improves clarity
+- Clean structure is as important as correct output
+
+---
+
+## 📈 Progress Status
+- ✔ Advanced patterns implemented
+- ✔ Logic clarity improved
+- ✔ Code structure optimized
+- ✔ Confidence in pattern problems increased
+
+---
+
+## 🎯 Next Steps
+- Practice number-based patterns
+- Optimize pattern code using methods
+- Move towards recursion and advanced DSA topics
+
+---
+
+## ✅ Status
+Day 15 completed successfully
+
  
 ⭐ This repository will be updated regularly as I continue my learning journey.
