@@ -2,8 +2,6 @@
 
 import java.util.Scanner;
 
-import org.xml.sax.SAXException;
-
 public class SquarePattern {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -14,6 +12,7 @@ public class SquarePattern {
         System.out.print("*");
       }
       System.out.println();
+      sc.close();
     }
   }
 }

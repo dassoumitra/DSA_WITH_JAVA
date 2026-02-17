@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.sound.midi.Soundbank;
-
 public class SumOfEvenDigit {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
