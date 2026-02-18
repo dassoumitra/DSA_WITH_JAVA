@@ -1,0 +1,62 @@
+# 📅 Day 16 – Array Practice Problems (GeeksforGeeks)
+
+## 📌 Topic
+Basic Array Operations and Practice Problems in Java
+
+---
+
+## 📖 Problems Solved
+
+We solved 4 basic array problems from *GeeksforGeeks practice* to strengthen our understanding of array traversal and element manipulation.
+
+### 1. **Sum of Array**  
+Find the **sum of all elements** in the given array.  
+Example:  
+Input: `[1, 2, 3, 4]` → Output: `10`  
+Explanation: 1 + 2 + 3 + 4 = 10. :contentReference[oaicite:0]{index=0}
+
+---
+
+### 2. **Print Elements of Array**  
+Print all the elements of the array as they appear.  
+This helps in understanding **array traversal** using loops.
+
+---
+
+### 3. **Smaller and Larger (Min & Max)**  
+Find the **smallest** and **largest** elements in the array.  
+This requires comparing each element to a running minimum and maximum.
+
+---
+
+### 4. **Largest Element in Array**  
+Return the **maximum element** present in the array.  
+Example:  
+Input: `[1, 8, 7, 56, 90]` → Output: `90` :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🧠 Key Concepts Practiced
+
+- **Array traversal using loops**  
+  We used loops to visit each element in the array one by one.
+
+- **Accumulation patterns**  
+  For summation, we accumulated values in a `sum` variable.
+
+- **Comparisons for min & max**  
+  We initialized variables (`min`, `max`) and updated them based on comparisons inside a loop.
+
+- **Basic logic and control flow**  
+  These problems strengthened understanding of loop control structures in Java.
+
+---
+
+## 🧩 Java Example Snippets
+
+### ➤ Summing Array Elements
+```java
+int sum = 0;
+for (int i = 0; i < arr.length; i++) {
+    sum += arr[i];
+}

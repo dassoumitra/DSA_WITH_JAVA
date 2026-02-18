@@ -1087,4 +1087,6 @@ Array indexing starts from 0 because the index represents the offset from the ba
 ```java
 int[] arr = new int[5];
 
+
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
