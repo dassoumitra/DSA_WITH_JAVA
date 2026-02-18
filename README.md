@@ -1040,6 +1040,9 @@ An **array** is a data structure that stores a fixed number of elements of the *
 Each element can be accessed using an **index**, starting from `0`.
 
 ---
+## why Array index start from '0'
+Array indexing starts from 0 because the index represents the offset from the base memory address of the array. The first element is stored at the base address itself, so its offset is zero, which makes memory access faster and simpler.
+---
 
 ## 🔑 Why Arrays Are Important
 - Store multiple values in a single variable
