@@ -1015,5 +1015,73 @@ I practiced converting pattern logic into clean and structured Java code.
 ## ✅ Status
 Day 15 completed successfully
 
- 
+
+
+ # 📅 Day 16 – Arrays in Java (DSA with Java)
+
+## 📌 Topic
+Introduction to Arrays in Java – Core DSA Concepts
+
+> Source: https://youtu.be/_MwptrixhCs  
+> Watched Duration: ~2 Hours
+
+---
+
+## 📖 Overview
+On **Day 16** of my **DSA with Java** journey, I studied **Arrays in Java**, one of the most fundamental data structures in programming.  
+This session focused on understanding what arrays are, how they work internally, and how they are used to solve basic DSA problems efficiently.
+
+Arrays form the foundation for many advanced data structures and algorithms.
+
+---
+
+## 🧠 What Are Arrays?
+An **array** is a data structure that stores a fixed number of elements of the **same data type** in contiguous memory locations.  
+Each element can be accessed using an **index**, starting from `0`.
+
+---
+
+## 🔑 Why Arrays Are Important
+- Store multiple values in a single variable
+- Fast access using index
+- Simplifies handling large amounts of data
+- Foundation for advanced topics like matrices, sorting, searching, stacks, and queues
+
+---
+
+## 🧠 Concepts Covered
+
+- Array declaration and initialization
+- Accessing array elements using index
+- Traversing arrays using loops
+- Fixed size nature of arrays
+- Difference between primitive and reference arrays
+- Memory allocation in arrays
+- Basic array operations
+
+---
+
+## 🔁 Common Operations on Arrays
+- Traversal
+- Updating elements
+- Finding sum and average
+- Finding minimum and maximum values
+- Searching elements using loops
+
+---
+
+## 💡 Key Learnings
+- Array index starts from `0`
+- Array size is fixed once created
+- Loops are commonly used to process arrays
+- Arrays improve efficiency and code clarity
+- Understanding arrays is essential for mastering DSA
+
+---
+
+## 📘 Example (Array Declaration)
+
+```java
+int[] arr = new int[5];
+
 ⭐ This repository will be updated regularly as I continue my learning journey.
