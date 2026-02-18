@@ -1087,6 +1087,18 @@ Array indexing starts from 0 because the index represents the offset from the ba
 ```java
 int[] arr = new int[5];
 
+Practice Problems
+
+Sum of Array – simple summation of array elements
+https://www.geeksforgeeks.org/problems/sum-of-array2326/1
+
+Print Elements of Array – print all elements
+https://www.geeksforgeeks.org/problems/print-elements-of-array4910/1
+
+Smaller and Larger / Min & Max element – find smallest & largest values
+
+Largest Element in Array – find the largest element
+https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
 
 
 ⭐ This repository will be updated regularly as I continue my learning journey.
