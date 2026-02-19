@@ -1088,169 +1088,189 @@ Array indexing starts from 0 because the index represents the offset from the ba
 int[] arr = new int[5];
 
 
+
 ## 🧪 Practice Problems (GeeksforGeeks)
 
 - “Sum of Array” – Simple summation of all array elements  
-  https://www.geeksforgeeks.org/problems/sum-of-array2326/1
+  👉 [Solve on GFG](https://www.geeksforgeeks.org/problems/sum-of-array2326/1)
 
 - “Print Elements of Array” – Print all elements of the array  
-  https://www.geeksforgeeks.org/problems/print-elements-of-array4910/1
+  👉 [Solve on GFG](https://www.geeksforgeeks.org/problems/print-elements-of-array4910/1)
 
-- “Smaller and Larger (Min & Max Element)” – Find the smallest and largest values in the array  
-  https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1
+- “Smaller and Larger (Min & Max Element)” – Find smallest & largest values  
+  👉 [Solve on GFG](https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1)
 
-- “Largest Element in Array” – Find the maximum element present in the array  
-  https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
+- “Largest Element in Array” – Find the maximum element  
+  👉 [Solve on GFG](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+
+---
+
+## 📅 14-Day Array Mastery Plan (with Video Resources)
+
+---
+
+### 🔹 Day 1 – Array Fundamentals
+“Topics”
+- Array declaration & traversal  
+- Indexing & length  
+- Practice: print array, sum, count  
+
+🎥 “Videos”
+- [Love Babbar – Arrays Basics](https://youtu.be/n60Dn0UsbEk)  
+- [CodeWithHarry – Array Tutorial (Hindi)](https://youtu.be/4pYeB9f_QV0)
+
+---
+
+### 🔹 Day 2 – Min / Max & Basic Logic
+“Topics”
+- Largest & smallest element  
+- Second largest  
+- Check if array is sorted  
+
+🎥 “Videos”
+- [Apna College – Min & Max in Array](https://youtu.be/Kn7dSO-pQtM)  
+- [Jenny’s Lectures – Basics of Arrays](https://youtu.be/7zRmViWTHW8)
+
+---
+
+### 🔹 Day 3 – Reverse & Rotation
+“Topics”
+- Reverse array  
+- Left & right rotation  
+
+🎥 “Videos”
+- [Take U Forward – Array Rotation](https://youtu.be/eB5FMy98BFI)  
+- [CodeHelp – Reverse Array](https://youtu.be/qDEfC7tKqDA)
+
+---
+
+### 🔹 Day 4 – Searching Techniques
+“Topics”
+- Linear search  
+- Binary search  
+
+🎥 “Videos”
+- [CodeWithHarry – Linear & Binary Search](https://youtu.be/WG3r7sbnFA4)  
+- [Abdul Bari – Binary Search Explained](https://youtu.be/P3YID7liBug)
+
+---
+
+### 🔹 Day 5 – Sorting Basics
+“Topics”
+- Bubble, Selection, Insertion  
+- Using sorting to simplify problems  
+
+🎥 “Videos”
+- [Jenny’s Lectures – Sorting Algorithms](https://youtu.be/P5m9L1tFdmU)  
+- [CodeWithHarry – Sorting Tutorial](https://youtu.be/qvzaNWlpZU4)
+
+---
+
+### 🔹 Day 6 – Two Pointer Technique
+“Topics”
+- Two pointer approach  
+- Move zeros, pair sums  
+
+🎥 “Videos”
+- [Take U Forward – Two Pointers](https://youtu.be/-2tK83Y1pWs)  
+- [Nick White – Two Pointer Approach](https://youtu.be/UOiUQ7NU69M)
+
+---
+
+### 🔹 Day 7 – Fixed Sliding Window
+“Topics”
+- Window of size K  
+- Max sum / first negative  
+
+🎥 “Videos”
+- [Aditya Verma – Sliding Window](https://youtu.be/qaUbUBO2zGE)  
+- [CodeHelp – Sliding Window Explained](https://youtu.be/3aEw-CoP2FI)
+
+---
+
+### 🔹 Day 8 – Variable Sliding Window
+“Topics”
+- Expand & shrink window  
+- Sum constraints  
+
+🎥 “Videos”
+- [Aditya Verma – Variable Sliding Window](https://youtu.be/3DLwQvg2I6E)  
+- [Take U Forward – Window Patterns](https://youtu.be/RYK7y2xFI4M)
+
+---
+
+### 🔹 Day 9 – Prefix Sum
+“Topics”
+- Prefix array  
+- Range sum queries  
+
+🎥 “Videos”
+- [Take U Forward – Prefix Sum](https://youtu.be/yUXJP9ELvTI)  
+- [CodeHelp – Prefix Sum Intuition](https://youtu.be/o4LaU8hf_FY)
+
+---
+
+### 🔹 Day 10 – Prefix Sum + Hashing
+“Topics”
+- Subarray sum = K  
+- Zero sum subarray  
+
+🎥 “Videos”
+- [Aditya Verma – Subarray Sum Using Prefix](https://youtu.be/XZnW1Nt1eNE)  
+- [Nick White – Subarray Sum Equals K](https://youtu.be/V4oQGqL2ytg)
+
+---
+
+### 🔹 Day 11 – Hashing Basics
+“Topics”
+- Frequency counting  
+- HashMap / HashSet  
+
+🎥 “Videos”
+- [Love Babbar – Hashing in DSA](https://youtu.be/8R9u6x0sKDc)  
+- [Take U Forward – Hashing Patterns](https://youtu.be/3hFhJgF3sCI)
+
+---
+
+### 🔹 Day 12 – Mixed Medium Problems
+“Topics”
+- Longest consecutive subsequence  
+- Missing number  
+- Union & intersection  
+
+🎥 “Videos”
+- [Take U Forward – Array Mixed Patterns](https://youtu.be/JdpCXjQgxHw)  
+- [CodeHelp – Array Problem Set](https://youtu.be/6NZOhM8gyJc)
+
+---
+
+### 🔹 Day 13 – Revision Day
+“Topics”
+- Re-solve weak areas  
+- Sliding window, prefix sum, two pointers  
+
+🎥 “Playlists”
+- [Aditya Verma – DSA Patterns Playlist](https://www.youtube.com/playlist?list=PLi9RQVmJD2fYJ1lWP2XduqElM4WpEXf5o)  
+- [Take U Forward – DSA Patterns](https://www.youtube.com/playlist?list=PLgUwDviBIf0pMF3zWJ2H6JvI1z7t0VQH3)
+
+---
+
+### 🔹 Day 14 – Mock Test Day
+“Topics”
+- Solve 5–6 array problems (timed)  
+- Analyze mistakes  
+
+🎥 “Bonus Practice”
+- [GFG Array Playlist](https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2W6JH2drfSG3F6XGdM)  
+- [CodeStudio Array Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qxlsnql5W5d5XjYnEZd9CO)
+
+---
 
 
 
-________________________________________
-🚀 14-Day Array Mastery Plan (with Video Resources – Hyperlinked)
-________________________________________
-Day 1 – Array Fundamentals
-Topics
-•	Array declaration & traversal
-•	Indexing & length
-•	Practice: print array, sum, count
-🎥 Video Resources
-•	Love Babbar – Arrays Basics
-👉 https://youtu.be/n60Dn0UsbEk
-•	CodeWithHarry – Array Tutorial (Hindi)
-👉 https://youtu.be/4pYeB9f_QV0
-________________________________________
-Day 2 – Min / Max & Basic Logic
-Topics
-•	Largest & smallest element
-•	Second largest
-•	Sorted check
-🎥 Video Resources
-•	Apna College – Min & Max in Array
-👉 https://youtu.be/Kn7dSO-pQtM
-•	Jenny’s Lectures – Basics of Arrays
-👉 https://youtu.be/7zRmViWTHW8
-________________________________________
-Day 3 – Reverse & Rotation
-Topics
-•	Reverse array
-•	Left & right rotation
-🎥 Video Resources
-•	Take U Forward – Array Rotation
-👉 https://youtu.be/eB5FMy98BFI
-•	CodeHelp – Reverse Array
-👉 https://youtu.be/qDEfC7tKqDA
-________________________________________
-Day 4 – Searching Techniques
-Topics
-•	Linear search
-•	Binary search
-🎥 Video Resources
-•	CodeWithHarry – Linear & Binary Search
-👉 https://youtu.be/WG3r7sbnFA4
-•	Abdul Bari – Binary Search Explained
-👉 https://youtu.be/P3YID7liBug
-________________________________________
-Day 5 – Sorting Basics
-Topics
-•	Bubble, Selection, Insertion
-•	Using sorting to simplify problems
-🎥 Video Resources
-•	Jenny’s Lectures – Sorting Algorithms
-👉 https://youtu.be/P5m9L1tFdmU
-•	CodeWithHarry – Sorting Tutorial
-👉 https://youtu.be/qvzaNWlpZU4
-________________________________________
-Day 6 – Two Pointer Technique
-Topics
-•	Two pointer idea
-•	Move zeros, pair sums
-🎥 Video Resources
-•	Take U Forward – Two Pointers
-👉 https://youtu.be/-2tK83Y1pWs
-•	Nick White – Two Pointer Approach
-👉 https://youtu.be/UOiUQ7NU69M
-________________________________________
-Day 7 – Fixed Sliding Window
-Topics
-•	Window of size K
-•	Max sum / first negative
-🎥 Video Resources
-•	Aditya Verma – Sliding Window
-👉 https://youtu.be/qaUbUBO2zGE
-•	CodeHelp – Sliding Window Explained
-👉 https://youtu.be/3aEw-CoP2FI
-________________________________________
-Day 8 – Variable Sliding Window
-Topics
-•	Expand & shrink window
-•	Sum constraints
-🎥 Video Resources
-•	Aditya Verma – Variable Sliding Window
-👉 https://youtu.be/3DLwQvg2I6E
-•	Take U Forward – Window Patterns
-👉 https://youtu.be/RYK7y2xFI4M
-________________________________________
-Day 9 – Prefix Sum
-Topics
-•	Prefix array
-•	Range sum queries
-🎥 Video Resources
-•	Take U Forward – Prefix Sum
-👉 https://youtu.be/yUXJP9ELvTI
-•	CodeHelp – Prefix Sum Intuition
-👉 https://youtu.be/o4LaU8hf_FY
-________________________________________
-Day 10 – Prefix Sum + Hashing
-Topics
-•	Subarray sum = K
-•	Zero sum subarray
-🎥 Video Resources
-•	Aditya Verma – Subarray Sum Using Prefix
-👉 https://youtu.be/XZnW1Nt1eNE
-•	Nick White – Subarray Sum Equals K
-👉 https://youtu.be/V4oQGqL2ytg
-________________________________________
-Day 11 – Hashing Basics
-Topics
-•	Frequency counts
-•	HashMap / HashSet
-🎥 Video Resources
-•	Love Babbar – Hashing in DSA
-👉 https://youtu.be/8R9u6x0sKDc
-•	Take U Forward – Hashing Patterns
-👉 https://youtu.be/3hFhJgF3sCI
-________________________________________
-Day 12 – Mixed Medium Problems
-Topics
-•	Longest consecutive subsequence
-•	Missing number
-•	Union & intersection
-🎥 Video Resources
-•	Take U Forward – Array Mixed Patterns
-👉 https://youtu.be/JdpCXjQgxHw
-•	CodeHelp – Array Problem Set
-👉 https://youtu.be/6NZOhM8gyJc
-________________________________________
-Day 13 – Revision Day
-Topics
-•	Re-solve weak areas
-•	Sliding window, prefix sum, two pointers
-🎥 Video Playlists
-•	Aditya Verma – DSA Patterns Playlist
-👉 https://www.youtube.com/playlist?list=PLi9RQVmJD2fYJ1lWP2XduqElM4WpEXf5o
-•	Take U Forward – DSA Patterns
-👉 https://www.youtube.com/playlist?list=PLgUwDviBIf0pMF3zWJ2H6JvI1z7t0VQH3
-________________________________________
-Day 14 – Mock Test Day
-Topics
-•	Solve 5–6 array problems (timed)
-•	Analyze mistakes
-🎥 Bonus Practice
-•	GFG Array Playlist
-👉 https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2W6JH2drfSG3F6XGdM
-•	CodeStudio Array Playlist
-👉 https://www.youtube.com/playlist?list=PLgUwDviBIf0qxlsnql5W5d5XjYnEZd9CO
-________________________________________
+---
 
+⭐ If this repo helped you, don’t forget to “star it”!
 
 
 
