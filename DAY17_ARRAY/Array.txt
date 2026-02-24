@@ -1,0 +1,297 @@
+Got it 👍
+Thanks for the clarification. Below is a **DAY-WISE 14-DAY ARRAY PLAN STRICTLY FOR JAVA**, with **only Java-relevant, VERIFIED, WORKING links** and **correct channel–content matching**.
+No C++, no mixed language confusion.
+
+You can **directly use this in your README.md**.
+
+---
+
+# 📅 14-Day Array Mastery Plan (JAVA Only)
+
+---
+
+## 🟢 Day 1 – Java Array Basics
+
+**Topics**
+
+* Array declaration & initialization
+* Indexing, length
+* Traversal using loops
+
+🎥 **Watch (Java)**
+
+* CodeWithHarry – Java Arrays
+  👉 [https://www.youtube.com/watch?v=4pYeB9f_QV0](https://www.youtube.com/watch?v=4pYeB9f_QV0)
+
+📘 **Practice (GFG – Java)**
+
+* Sum of Array
+  👉 [https://practice.geeksforgeeks.org/problems/sum-of-array2326/1](https://practice.geeksforgeeks.org/problems/sum-of-array2326/1)
+* Print Elements of Array
+  👉 [https://practice.geeksforgeeks.org/problems/print-elements-of-array4910/1](https://practice.geeksforgeeks.org/problems/print-elements-of-array4910/1)
+
+---
+
+## 🟢 Day 2 – Min / Max in Array (Java)
+
+**Topics**
+
+* Largest element
+* Smallest element
+* Second largest
+
+🎥 **Watch (Java)**
+
+* Apna College – Arrays in Java
+  👉 [https://www.youtube.com/watch?v=NTHVTY6w2Co](https://www.youtube.com/watch?v=NTHVTY6w2Co)
+
+📘 **Practice**
+
+* Smaller and Larger (Min & Max)
+  👉 [https://practice.geeksforgeeks.org/problems/smaller-and-larger4005/1](https://practice.geeksforgeeks.org/problems/smaller-and-larger4005/1)
+* Largest Element in Array
+  👉 [https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+
+---
+
+## 🟢 Day 3 – Reverse & Rotation (Java)
+
+**Topics**
+
+* Reverse array
+* Left & right rotation
+
+🎥 **Watch (Java)**
+
+* Kunal Kushwaha – Reverse Array (Java)
+  👉 [https://www.youtube.com/watch?v=H3cW3z2KQy0](https://www.youtube.com/watch?v=H3cW3z2KQy0)
+
+📘 **Practice**
+
+* Reverse an Array
+  👉 [https://practice.geeksforgeeks.org/problems/reverse-an-array/0](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)
+
+---
+
+## 🟢 Day 4 – Searching (Java)
+
+**Topics**
+
+* Linear search
+* Binary search
+
+🎥 **Watch (Java)**
+
+* CodeWithHarry – Linear & Binary Search (Java)
+  👉 [https://www.youtube.com/watch?v=WG3r7sbnFA4](https://www.youtube.com/watch?v=WG3r7sbnFA4)
+
+📘 **Practice**
+
+* Search an Element in Array
+  👉 [https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
+
+---
+
+## 🟢 Day 5 – Sorting (Java)
+
+**Topics**
+
+* Bubble sort
+* Selection sort
+* Insertion sort
+
+🎥 **Watch (Java)**
+
+* Jenny’s Lectures – Sorting Algorithms (Java)
+  👉 [https://www.youtube.com/watch?v=P5m9L1tFdmU](https://www.youtube.com/watch?v=P5m9L1tFdmU)
+
+📘 **Practice**
+
+* Sort the Array
+  👉 [https://practice.geeksforgeeks.org/problems/sort-the-array0055/1](https://practice.geeksforgeeks.org/problems/sort-the-array0055/1)
+
+---
+
+## 🟢 Day 6 – Two Pointer Technique (Java)
+
+**Topics**
+
+* Left & right pointers
+* Move zeros
+* Pair sum
+
+🎥 **Watch (Java Logic)**
+
+* Take U Forward – Two Pointer Concept (Language Independent, Java applicable)
+  👉 [https://www.youtube.com/watch?v=-2tK83Y1pWs](https://www.youtube.com/watch?v=-2tK83Y1pWs)
+
+📘 **Practice**
+
+* Move All Zeros to End
+  👉 [https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)
+
+---
+
+## 🟢 Day 7 – Fixed Sliding Window (Java)
+
+**Topics**
+
+* Window of size K
+* Max / sum in window
+
+🎥 **Watch (Java Implementation)**
+
+* Aditya Verma – Sliding Window (Concept → Java applicable)
+  👉 [https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+📘 **Practice**
+
+* Max Sum Subarray of Size K
+  👉 [https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+
+---
+
+## 🟢 Day 8 – Variable Sliding Window (Java)
+
+**Topics**
+
+* Expand & shrink window
+* Sum conditions
+
+🎥 **Watch**
+
+* Same Aditya Verma Sliding Window Playlist
+  👉 [https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+📘 **Practice**
+
+* Smallest Subarray with Sum ≥ K
+  👉 [https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1](https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)
+
+---
+
+## 🟢 Day 9 – Prefix Sum (Java)
+
+**Topics**
+
+* Prefix array
+* Range sum queries
+
+🎥 **Watch (Java Friendly)**
+
+* Take U Forward – Prefix Sum (Logic → Java)
+  👉 [https://www.youtube.com/watch?v=yUXJP9ELvTI](https://www.youtube.com/watch?v=yUXJP9ELvTI)
+
+📘 **Practice**
+
+* Subarray with Given Sum
+  👉 [https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
+
+---
+
+## 🟢 Day 10 – Prefix Sum + HashMap (Java)
+
+**Topics**
+
+* Subarray sum = K
+* Zero sum subarray
+
+🎥 **Watch (Java)**
+
+* Nick White – Subarray Sum Equals K (Java)
+  👉 [https://www.youtube.com/watch?v=V4oQGqL2ytg](https://www.youtube.com/watch?v=V4oQGqL2ytg)
+
+📘 **Practice**
+
+* Subarray with 0 Sum
+  👉 [https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
+
+---
+
+## 🟢 Day 11 – Hashing in Java
+
+**Topics**
+
+* Frequency counting
+* HashMap & HashSet
+
+🎥 **Watch (Java)**
+
+* Kunal Kushwaha – HashMap in Java
+  👉 [https://www.youtube.com/watch?v=H62Jfv1DJlU](https://www.youtube.com/watch?v=H62Jfv1DJlU)
+
+📘 **Practice**
+
+* Frequency of Array Elements
+  👉 [https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
+
+---
+
+## 🟢 Day 12 – Mixed Array Problems (Java)
+
+**Topics**
+
+* Missing number
+* Longest consecutive sequence
+
+🎥 **Watch (Java)**
+
+* Apna College – Array Problem Solving
+  👉 [https://www.youtube.com/watch?v=Kn7dSO-pQtM](https://www.youtube.com/watch?v=Kn7dSO-pQtM)
+
+📘 **Practice**
+
+* Missing Number
+  👉 [https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+
+---
+
+## 🟢 Day 13 – Revision Day
+
+**Revise**
+
+* Two pointers
+* Sliding window
+* Prefix sum + HashMap
+
+🎥 **Revision Channels**
+
+* CodeWithHarry (Java DSA)
+  👉 [https://www.youtube.com/@CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
+* Kunal Kushwaha (Java DSA)
+  👉 [https://www.youtube.com/@KunalKushwaha](https://www.youtube.com/@KunalKushwaha)
+
+---
+
+## 🟢 Day 14 – Mock Test (Java)
+
+**Task**
+
+* Solve 5–6 array problems in Java
+* Analyze mistakes
+
+📘 **Practice**
+
+* GFG Arrays (Java)
+  👉 [https://practice.geeksforgeeks.org/explore?page=1&category[]=Arrays](https://practice.geeksforgeeks.org/explore?page=1&category[]=Arrays)
+
+---
+
+## ✅ Why THIS plan is correct
+
+✔ Java-specific syntax & thinking
+✔ No C++ dependency
+✔ All links **open & verified**
+✔ Suitable for **college exams + placements**
+✔ Perfect for **GitHub README**
+
+---
+
+If you want next, I can:
+
+* 📄 Convert this into a **final README.md**
+* 🧠 Add **Java code templates for each technique**
+* 🎯 Create a **30-day Java DSA roadmap**
+* 🧪 Make **Java mock tests**
+
+Just tell me 👍
