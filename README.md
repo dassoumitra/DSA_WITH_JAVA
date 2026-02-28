@@ -1144,6 +1144,16 @@ with **GeeksforGeeks practice problems** and **curated YouTube resources**.
 - [Jenny’s Lectures – Basics of Arrays](https://youtu.be/7zRmViWTHW8)
 
 ---
+## 🧪 Practice Problems
+
+| Problem | Definition | URL |
+|--------|------------|-----|
+| Binary Search | Find the index of a target element in a sorted array using binary search technique. | https://www.geeksforgeeks.org/problems/binary-search-1587115620/1 |
+| Sorted Array Search | Determine whether a given element exists in a sorted array using binary search. | https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1 |
+| Array Search | Search for a given element in an array and return its index if found, otherwise return -1. | https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 |
+| Two Sum (Key Pair) | Check if there exists a pair of elements in the array whose sum equals a given target value. | https://www.geeksforgeeks.org/problems/key-pair5616/1 |
+
+---
 
 ### 🔹 Day 3 – Reverse & Rotation
 **Topics**
@@ -1277,6 +1287,7 @@ with **GeeksforGeeks practice problems** and **curated YouTube resources**.
 - [CodeStudio Array Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0qxlsnql5W5d5XjYnEZd9CO)
 
 ---
+## ARRAY 
 
 
 ---
