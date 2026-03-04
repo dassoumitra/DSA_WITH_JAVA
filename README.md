@@ -1,15 +1,3 @@
-<div align="center">
-
-# <span style="animation: glow 2s ease-in-out infinite alternate;">**Java + DSA Learning Journey**</span>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #007396; }
-  to { text-shadow: 0 0 20px #007396, 0 0 30px #00D084; }
-}
-</style>
-</div>
-
 
 <div align="center">
 
