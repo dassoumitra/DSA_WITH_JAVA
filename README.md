@@ -1,5 +1,18 @@
 <div align="center">
 
+# <span style="animation: glow 2s ease-in-out infinite alternate;">**Java + DSA Learning Journey**</span>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 5px #007396; }
+  to { text-shadow: 0 0 20px #007396, 0 0 30px #00D084; }
+}
+</style>
+</div>
+
+
+<div align="center">
+
 # 🚀 **Java + DSA Learning Journey** ✨
 
 [![Java](https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white)] [![DSA](https://img.shields.io/badge/DSA-Day16+-00D084?style=for-the-badge&logo=coding&logoColor=white)] [![GATE](https://img.shields.io/badge/GATE2026-✅-F7931E?style=for-the-badge&logo=india&logoColor=white)]
