@@ -95,16 +95,3 @@
 </table>
 
 ---
-
-## 🗂️ **Code Structure** *(Animated Progress)*
-
-```mermaid
-graph TD
-    A[🚀 Day-1<br/>Java Basics] --> B[🔄 Day-4<br/>While Loop<br/>20 Problems]
-    B --> C[⭐ Day-6<br/>GATE 2026]
-    C --> D[🎯 Day-16<br/>Arrays<br/>5/50 Solved]
-    
-    style A fill:#d4edda
-    style B fill:#c3e6cb
-    style C fill:#fff3cd
-    style D fill:#d1ecf1
