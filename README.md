@@ -1,5 +1,13 @@
 # 🚀 Java + DSA + Development Learning Journey                                                                                                                          DATE : 03/02/26
 
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white)] [![DSA](https://img.shields.io/badge/DSA-Journey-00D084?style=for-the-badge&logo=coding&logoColor=white)] [![Progress](https://img.shields.io/badge/Day-16%2B-F7931E?style=for-the-badge&logo=calendar&logoColor=white)] [![GATE](https://img.shields.io/badge/GATE%202026-✅-54AD69?style=for-the-badge&logo=india&logoColor=white)] [![Problems](https://img.shields.io/badge/100%2B%20Solved-9353FF?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]
+
+[![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)] [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)] [![License](https://img.shields.io/github/license/dassoumitra/DSA_WITH_JAVA?style=for-the-badge&logo=mit&logoColor=white)]
+
+</div>
+
 This repository documents my “daily progress” in learning “Java fundamentals, DSA basics, and development concepts” for placement preparation.
 
 The goal is to build a “strong foundation”, write “clean code”, and develop “logical problem-solving skills”.
