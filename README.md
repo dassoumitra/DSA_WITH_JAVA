@@ -19,7 +19,12 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 ---
 
-# 📚 Topics Covered
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Covered
 
 | Topic                  | Subtopics                                         | Status |
 | ---------------------- | ------------------------------------------------- | ------ |
@@ -36,6 +41,33 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | Sorting                | Bubble, Selection, Insertion                      | ⏳      |
 | Advanced DSA           | Sliding Window, Hashing, Recursion                | ⏳      |
 
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Practice
+
+| #    | Problem                                                                                                                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                       |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                       |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                   |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                 |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                             |
+| 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                             |
+| 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                                                 |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                         |
+| 2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/)                                           |
+| 2535 | [Difference Between Element Sum and Digit Sum](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) |
+
+</td>
+
+</tr>
+</table>
+
+
 ---
 
 ## 📈 Learning Progress
@@ -45,7 +77,7 @@ Java Basics        ██████████
 Loops              ██████████
 Patterns           ██████████
 Methods            ██████████
-Arrays             ███░░░░░░░
+Arrays             ███
 Searching          ░░░░░░░░░░
 Sorting            ░░░░░░░░░░
 ```
