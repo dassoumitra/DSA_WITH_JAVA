@@ -1,16 +1,5 @@
 
-<div align="center">
-
-# 🚀 **Java + DSA Learning Journey** ✨
-
-[![Java](https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white)] [![DSA](https://img.shields.io/badge/DSA-Day16+-00D084?style=for-the-badge&logo=coding&logoColor=white)] [![GATE](https://img.shields.io/badge/GATE2026-✅-F7931E?style=for-the-badge&logo=india&logoColor=white)]
-
-**Soumitra Das** | Kolkata |
-
-</div>
-
----
-# 🚀 DSA With Java
+# 🚀 DSA WITH JAVA
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge">
