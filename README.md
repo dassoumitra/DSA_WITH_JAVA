@@ -24,22 +24,27 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 <td valign="top" width="50%">
 
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
 ### 📚 Topics Covered
 
-| Topic                  | Subtopics                                         | Status |
-| ---------------------- | ------------------------------------------------- | ------ |
-| Java Basics            | Variables, Data Types, Scanner, Program Structure | ✅      |
-| Operators              | Arithmetic, Logical, Relational, Assignment       | ✅      |
-| Conditional Statements | if, if-else, nested if, switch                    | ✅      |
-| Loops                  | for, while, do-while, break, continue             | ✅      |
-| Loop Problems          | Prime, Fibonacci, Factorial, Digit problems       | ✅      |
-| Mathematical Series    | AP, GP, Fibonacci, Squares, Cubes                 | ✅      |
-| Pattern Printing       | Star, Triangle, Pyramid, Diamond                  | ✅      |
-| Methods                | Parameters, Return values, Overloading            | ✅      |
-| Arrays                 | Declaration, Traversal, Min/Max, Searching        | ✅      |
-| Searching              | Linear Search, Binary Search                      | ⏳      |
-| Sorting                | Bubble, Selection, Insertion                      | ⏳      |
-| Advanced DSA           | Sliding Window, Hashing, Recursion                | ⏳      |
+| Topic                  | Status |
+| ---------------------- | ------ |
+| Java Basics            | ✅      |
+| Operators              | ✅      |
+| Conditional Statements | ✅      |
+| Loops                  | ✅      |
+| Loop Problems          | ✅      |
+| Mathematical Series    | ✅      |
+| Pattern Printing       | ✅      |
+| Methods                | ✅      |
+| Arrays                 | ✅      |
+| Searching              | ⏳      |
+| Sorting                | ⏳      |
+| Advanced DSA           | ⏳      |
 
 </td>
 
@@ -66,6 +71,7 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 </tr>
 </table>
+
 
 
 ---
