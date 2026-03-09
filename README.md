@@ -72,13 +72,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 08/03/2026
+
 <table>
 <tr>
-### Date - 08/03/2026
+
 <td valign="top" width="50%">
 
-### 📚 Topics Completed 
-
+### 📚 Topics Completed
 
 | Topic | Status |
 |------|--------|
@@ -91,18 +92,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 ### 🧠 LeetCode Problems
 
-| # | Problem | Difficulty | Status |
-|---|--------|-----------|--------|
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ Solved |
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | ✅ Solved |
+| # | Problem | Status |
+|---|--------|--------|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Solved |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ✅ Solved |
 
 </td>
 
 </tr>
 </table>
-
----
-
 
 ---
 
