@@ -10,3 +10,6 @@
 2443 https://leetcode.com/problems/sum-of-number-and-its-reverse/description/
 66 https://leetcode.com/problems/plus-one/description/
 88 https://leetcode.com/problems/merge-sorted-array/description/
+08/03/26
+217 https://leetcode.com/problems/contains-duplicate/description/
+448 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/

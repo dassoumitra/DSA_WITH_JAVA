@@ -74,11 +74,11 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 <table>
 <tr>
-
+### Date - 08/03/2026
 <td valign="top" width="50%">
 
 ### 📚 Topics Completed 
-### Date - 08/03/2026
+
 
 | Topic | Status |
 |------|--------|
