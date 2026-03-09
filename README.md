@@ -92,8 +92,8 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 | # | Problem | Difficulty | Status |
 |---|--------|-----------|--------|
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ✅ Solved |
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | ✅ Solved |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ Solved |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ✅ Solved |
 
 </td>
 
