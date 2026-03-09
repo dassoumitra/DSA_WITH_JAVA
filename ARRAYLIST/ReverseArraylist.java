@@ -1,7 +1,5 @@
-import java.text.CollationElementIterator;
+
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 
 public class ReverseArraylist {
   public static void main(String[] args) {
