@@ -13,3 +13,12 @@
 08/03/26
 217 https://leetcode.com/problems/contains-duplicate/description/
 448 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+10/03/26
+287 https://leetcode.com/problems/find-the-duplicate-number/description/
+27 https://leetcode.com/problems/remove-element/description/
+283 https://leetcode.com/problems/move-zeroes/description/
+2460 https://leetcode.com/problems/apply-operations-to-an-array/description/
+11/03/26
+485 https://leetcode.com/problems/max-consecutive-ones/
+1295 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
+977 https://leetcode.com/problems/squares-of-a-sorted-array/description/
