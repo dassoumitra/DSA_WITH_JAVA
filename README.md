@@ -102,6 +102,37 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 10/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Arrays Practice | ✅ Completed |
+| Two Pointer Technique | ✅ Practiced |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ✅ Solved |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Solved |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ Solved |
+| 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | ✅ Solved |
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Stack
