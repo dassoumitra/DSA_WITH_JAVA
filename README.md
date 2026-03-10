@@ -134,6 +134,38 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 </tr>
 </table>
+
+### 📅 Date — 11/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Array Traversal | ✅ Practiced |
+| Counting & Digit Logic | ✅ Practiced |
+| Two Pointer Technique | ✅ Practiced |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ✅ Solved |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ Solved |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ✅ Solved |
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Stack
