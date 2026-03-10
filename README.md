@@ -115,6 +115,7 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |------|--------|
 | Arrays Practice | ✅ Completed |
 | Two Pointer Technique | ✅ Practiced |
+| Time & Space Complexity ([Video](https://youtu.be/s1OHQ1kNHsM?si=pYXToaZU8n2rT1zl)) | ✅ Learned |
 
 </td>
 
