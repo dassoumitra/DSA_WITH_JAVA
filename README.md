@@ -17,6 +17,10 @@
 
 Learning **Java + Data Structures & Algorithms** step by step with focus on **logic building and problem solving**.
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/o90IsoQB8g?theme=dark&font=baloo)
+
 ---
 
 <table>
