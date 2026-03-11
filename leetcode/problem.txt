@@ -22,3 +22,6 @@
 485 https://leetcode.com/problems/max-consecutive-ones/
 1295 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 977 https://leetcode.com/problems/squares-of-a-sorted-array/description/
+1346 https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
+941 https://leetcode.com/problems/valid-mountain-array/
+1299 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/

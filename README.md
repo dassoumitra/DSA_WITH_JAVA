@@ -161,7 +161,9 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | ✅ Solved |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ Solved |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ✅ Solved |
-
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | ✅ Solved |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | ✅ Solved |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | ✅ Solved |
 </td>
 
 </tr>
