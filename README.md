@@ -139,19 +139,6 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 <table>
 <tr>
-
-<td valign="top" width="50%">
-
-### 📚 Topics Practiced
-
-| Topic | Status |
-|------|--------|
-| Array Traversal | ✅ Practiced |
-| Counting & Digit Logic | ✅ Practiced |
-| Two Pointer Technique | ✅ Practiced |
-
-</td>
-
 <td valign="top" width="50%">
 
 ### 🧠 LeetCode Problems
@@ -168,7 +155,8 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 </tr>
 </table>
----
+
+----
 
 ## ⚡ Tech Stack
 
