@@ -19,7 +19,7 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/o90IsoQB8g?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/soumitra-das?theme=dark&font=baloo)
 
 ---
 
