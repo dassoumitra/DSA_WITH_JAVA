@@ -156,6 +156,16 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 12/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | ✅ Solved |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
