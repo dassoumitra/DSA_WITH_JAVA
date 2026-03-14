@@ -170,6 +170,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | ✅ Solved |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Solved |
 
+### 📅 Date — 14/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | ✅ Solved |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
