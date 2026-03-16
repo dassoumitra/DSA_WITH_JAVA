@@ -178,6 +178,25 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | ✅ Solved |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | ✅ Solved |
+
+
+### 📅 Date — 15/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | ✅ Solved |
+
+---
+
+### 📅 Date — 16/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
