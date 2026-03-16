@@ -162,8 +162,6 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 ### 📅 Date — 12/03/2026
 
-### 🧠 LeetCode Problems
-
 | # | Problem | Status |
 |---|--------|--------|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved |
@@ -171,8 +169,6 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ Solved |
 
 ### 📅 Date — 14/03/2026
-
-### 🧠 LeetCode Problems
 
 | # | Problem | Status |
 |---|--------|--------|
@@ -182,17 +178,11 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 ### 📅 Date — 15/03/2026
 
-### 🧠 LeetCode Problems
-
 | # | Problem | Status |
 |---|--------|--------|
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | ✅ Solved |
 
----
-
 ### 📅 Date — 16/03/2026
-
-### 🧠 LeetCode Problems
 
 | # | Problem | Status |
 |---|--------|--------|
