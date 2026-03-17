@@ -210,7 +210,8 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 
 | # | Problem | Status |
 |---|--------|--------|
-| — | — | — |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | ✅ Solved |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ Solved |
 
 </td>
 
@@ -218,6 +219,7 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </table>
 
 ----
+
 ## ⚡ Tech Stack
 
 | Tool    | Use             |
