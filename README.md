@@ -187,8 +187,37 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |---|--------|--------|
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | ✅ Solved |
-----
 
+
+### 📅 Date — 17/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Bubble Sort ([Video](https://youtu.be/Aa5gV3o7Rno?si=qDHFzBZfF5SM_u8o)) | ✅ Learned |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| — | — | — |
+
+</td>
+
+</tr>
+</table>
+
+----
 ## ⚡ Tech Stack
 
 | Tool    | Use             |
