@@ -218,6 +218,35 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 18/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Selection Sort ([Video](https://youtu.be/Aa5gV3o7Rno?si=gZ2cEaTMboccNLeq)) | ✅ Learned |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ Solved |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | ✅ Solved |
+
+</td>
+
+</tr>
+</table>
+
 ----
 
 ## ⚡ Tech Stack
