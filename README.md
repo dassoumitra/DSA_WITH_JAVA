@@ -247,6 +247,17 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 19/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ Solved |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | ✅ Solved |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | ✅ Solved |
+| 1492 | [The Kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
