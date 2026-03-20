@@ -258,6 +258,34 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | ✅ Solved |
 | 1492 | [The Kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | ✅ Solved |
 
+### 📅 Date — 20/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Insertion Sort | ✅ Learned |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | ✅ Solved |
+
+</td>
+
+</tr>
+</table>
+
 ----
 
 ## ⚡ Tech Stack
