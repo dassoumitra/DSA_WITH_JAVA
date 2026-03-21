@@ -286,6 +286,13 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 21/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
