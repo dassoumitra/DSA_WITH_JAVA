@@ -293,6 +293,36 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |---|--------|--------|
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ✅ Solved |
+
+### 📅 Date — 22/03/2026
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 📚 Topics Practiced
+
+| Topic | Status |
+|------|--------|
+| Binary Search ([Video](https://youtu.be/GeO3HQNnpoE?si=6Mp8m_3qWnqQG_v4)) | ✅ Learned |
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ✅ Solved |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ Solved |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Solved |
+
+</td>
+
+</tr>
+</table>
 ----
 
 ## ⚡ Tech Stack
