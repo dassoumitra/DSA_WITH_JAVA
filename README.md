@@ -324,6 +324,16 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 </tr>
 </table>
 
+### 📅 Date — 23/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅ Solved |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | ✅ Solved |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack

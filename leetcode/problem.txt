@@ -27,4 +27,24 @@
 1299 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 12/03/26
 26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+509 https://leetcode.com/problems/fibonacci-number/description/?envType=problem-list-v2&envId=math
+11 https://leetcode.com/problems/container-with-most-water/description/
+14/03/26
+905 https://leetcode.com/problems/sort-array-by-parity/submissions/1948253013/
+1051 https://leetcode.com/problems/height-checker/description/
+19/03/26
+162 https://leetcode.com/problems/find-peak-element/description/
+1464 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+1200 https://leetcode.com/problems/minimum-absolute-difference/description/
+1492 https://leetcode.com/problems/the-kth-factor-of-n/description/
+21/03/26
+34 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+22/03/26
+704 https://leetcode.com/problems/binary-search/
+278 https://leetcode.com/problems/first-bad-version/description/
+33 https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
+23/03/26
+852 https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+2529 https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/
+633 https://leetcode.com/problems/sum-of-square-numbers/description/
