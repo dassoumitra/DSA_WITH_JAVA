@@ -334,6 +334,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | ✅ Solved |
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | ✅ Solved |
 
+### 📅 Date — 24/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Solved |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack

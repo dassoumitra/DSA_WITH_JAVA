@@ -48,3 +48,7 @@
 852 https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 2529 https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/
 633 https://leetcode.com/problems/sum-of-square-numbers/description/
+
+24/03/26
+69 https://leetcode.com/problems/sqrtx/description/
+441 https://leetcode.com/problems/arranging-coins/description/
