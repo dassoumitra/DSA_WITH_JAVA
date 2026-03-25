@@ -52,3 +52,11 @@
 24/03/26
 69 https://leetcode.com/problems/sqrtx/description/
 441 https://leetcode.com/problems/arranging-coins/description/
+
+25/03/26
+2485 https://leetcode.com/problems/find-the-pivot-integer/description/
+540 https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+153 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+81 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+1752 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+1287 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/

@@ -343,6 +343,19 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Solved |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | ✅ Solved |
 
+### 📅 Date — 25/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | ✅ Solved |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ✅ Solved |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ Solved |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | ✅ Solved |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ✅ Solved |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
