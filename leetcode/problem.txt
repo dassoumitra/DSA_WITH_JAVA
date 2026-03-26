@@ -60,3 +60,8 @@
 81 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 1752 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 1287 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/
+
+27/03/26
+3028 https://leetcode.com/problems/ant-on-the-boundary/description/
+2176 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/
+

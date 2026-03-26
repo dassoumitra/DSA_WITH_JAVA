@@ -356,6 +356,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ✅ Solved |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | ✅ Solved |
 
+### 📅 Date — 26/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | ✅ Solved |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
