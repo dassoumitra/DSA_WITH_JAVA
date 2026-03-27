@@ -365,6 +365,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | ✅ Solved |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | ✅ Solved |
 
+### 📅 Date — 27/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | ✅ Solved |
+| 1343 | [Number of Sub-arrays of Size K and Average ≥ Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ✅ Solved |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
