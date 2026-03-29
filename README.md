@@ -383,6 +383,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ✅ Solved |
 
+### 📅 Date — 29/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
