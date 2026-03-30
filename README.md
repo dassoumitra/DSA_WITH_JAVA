@@ -391,6 +391,11 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ✅ Solved |
 
+### Date - 30-03-2026
+
+| # | Problem | Status |
+|-------------|--------------|--------|
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ |
 ----
 
 ## ⚡ Tech Stack
