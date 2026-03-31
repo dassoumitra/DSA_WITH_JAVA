@@ -396,6 +396,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |-------------|--------------|--------|
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | ✅ |
+
+### 📅 Date — 31/03/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
