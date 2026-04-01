@@ -404,6 +404,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |---|--------|--------|
 | 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | ✅ Solved |
+
+### 📅 Date — 01/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
