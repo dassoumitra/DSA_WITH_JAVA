@@ -413,6 +413,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ Solved |
 
+### 📅 Date — 02/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
