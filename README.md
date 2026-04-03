@@ -421,6 +421,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | ✅ Solved |
 
+### 📅 Date — 03/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
