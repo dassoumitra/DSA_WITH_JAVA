@@ -429,6 +429,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | ✅ Solved |
 
+### 📅 Date — 04/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
