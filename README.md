@@ -437,6 +437,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ✅ Solved |
 
+### 📅 Date — 05/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
