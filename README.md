@@ -461,7 +461,7 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | ✅ Solved |
 
-### 📅 Date — 08/04/2025
+### 📅 Date — 08/04/2026
 
 ### 🧠 LeetCode Problems
 
@@ -469,6 +469,13 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 2555 | [Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/) | ✅ Solved |
 
+### 📅 Date — 09/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
