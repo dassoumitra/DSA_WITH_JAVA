@@ -476,6 +476,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |---|--------|--------|
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | ✅ Solved |
+
+### 📅 Date — 10/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
