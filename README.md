@@ -485,6 +485,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | ✅ Solved |
 
+
+### 📅 Date — 16/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ✅ Solved |
 ----
 
 ## ⚡ Tech Stack
