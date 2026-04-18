@@ -493,6 +493,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | # | Problem | Status |
 |---|--------|--------|
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ✅ Solved |
+
+### 📅 Date — 18/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
