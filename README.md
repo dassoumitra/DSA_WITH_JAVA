@@ -502,6 +502,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | ✅ Solved |
 
+### 📅 Date — 19/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
