@@ -510,6 +510,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ✅ Solved |
 
+### 📅 Date — 20/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
