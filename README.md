@@ -518,6 +518,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | ✅ Solved |
 
+### 📅 Date — 21/04/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
