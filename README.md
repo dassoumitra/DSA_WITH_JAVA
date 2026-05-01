@@ -526,6 +526,16 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | ✅ Solved |
 
+### 📅 Date — 01/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | ✅ Solved |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | ✅ Solved |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
