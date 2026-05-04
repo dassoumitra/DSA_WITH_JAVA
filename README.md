@@ -536,6 +536,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | ✅ Solved |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | ✅ Solved |
 
+### 📅 Date — 04/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
