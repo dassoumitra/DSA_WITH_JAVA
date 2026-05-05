@@ -544,6 +544,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | ✅ Solved |
 
+### 📅 Date — 05/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
