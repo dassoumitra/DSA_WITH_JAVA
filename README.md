@@ -552,6 +552,14 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | ✅ Solved |
 
+### 📅 Date — 06/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | ✅ Solved |
+
 ----
 
 ## ⚡ Tech Stack
