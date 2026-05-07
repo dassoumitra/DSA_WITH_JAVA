@@ -560,6 +560,15 @@ Learning **Java + Data Structures & Algorithms** step by step with focus on **lo
 |---|--------|--------|
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | ✅ Solved |
 
+### 📅 Date — 07/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | ✅ Solved |
+
+
 ----
 
 ## ⚡ Tech Stack
